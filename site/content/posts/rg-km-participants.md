@@ -6,3 +6,4 @@ draft: false
 ---
 
 - Pahlevi Fikri Auliya (levi) - Computer Science NTU - <fikriauliya.github.io>
+- Mochammad Qemal Firza (Qemal) - Informatics Engineering Universitas Indraprasta PGRI - <>
